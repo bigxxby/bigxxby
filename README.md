@@ -9,7 +9,9 @@
 </div>
 
 ###
-<img src="https://github.com/user-attachments/assets/00e559d8-b794-490e-9b6d-aa6f1062bb41" alt="Certificate" width="500"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae905588-9a6e-45c4-9092-60d9b6a7a603" alt="Certificate" width="400"/>
+</p>
 
 <h2 align="left">I code with</h2>
 
