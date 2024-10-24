@@ -10,8 +10,9 @@
 
 ###
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ae905588-9a6e-45c4-9092-60d9b6a7a603" alt="Certificate" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ae905588-9a6e-45c4-9092-60d9b6a7a603" alt="Certificate" width="400" style="border-radius: 15px;"/>
 </p>
+
 
 <h2 align="left">I code with</h2>
 
