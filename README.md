@@ -9,7 +9,7 @@
 </div>
 
 ###
-![image](https://github.com/user-attachments/assets/00e559d8-b794-490e-9b6d-aa6f1062bb41)
+<img src="https://github.com/user-attachments/assets/00e559d8-b794-490e-9b6d-aa6f1062bb41" alt="Certificate" width="500"/>
 
 <h2 align="left">I code with</h2>
 
